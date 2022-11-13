@@ -11,7 +11,6 @@ class NovelList extends StatelessWidget {
   
   @override
   Widget build(BuildContext context) {
-    var orderCount = 0;
     return Scaffold(
       appBar: AppBar(
         title: Row(
